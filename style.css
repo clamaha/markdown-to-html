@@ -1,0 +1,76 @@
+
+html{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+  padding: 5px;
+  text-align: center;
+  background: #F5F5Dc;
+  font-size: 18px;
+}
+h1{
+  color: #99695E;
+  text-align: center;
+  
+
+}
+main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 60px;
+  padding-right: 60px;
+  font-size: 18px;
+}
+h2,h3,h4,h5,h6{
+  color: #99695E;
+  text-align: center;
+  width: 64%;
+}
+  body {
+    display: block;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(chicote-de-mamao-com-fundo-aquarela.jpg);
+    text-align: center;
+}
+img {
+      border-radius: 5px;
+      max-width: 260px;
+}
+  table{
+    border: 2px solid #99695E;
+    width: 60%;
+    text-align: center;
+    border-collapse: collapse;
+    background-color: #F5F5Dc;
+    border-style: dotted;
+}
+td {
+  border: 1px solid #99695E;
+  padding: 5px 4px;
+}
+input[type=checkbox]{
+  accent-color:  #99695E;
+  }
+ul{
+  text-align: left;
+
+}
+.story{
+  width: 60%;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #99695E;
+
+}
+footer{
+  padding: 5px;
+  text-align: center;
+  background: #F5F5Dc;
+  font-size: 18px;
+  display: block;
+}
